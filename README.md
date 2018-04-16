@@ -1,14 +1,12 @@
 scard
 =====
 
-[![GoDoc](https://godoc.org/github.com/ebfe/scard?status.svg)](https://godoc.org/github.com/ebfe/scard)
+[![GoDoc](https://godoc.org/github.com/lotus-wu/scard?status.svg)](https://godoc.org/github.com/lotus-wu/scard)
 
 Go bindings to the PC/SC API.
+> This package is fork from github.com/ebfe/scard .
 
 ## Installation
 
-	go get github.com/ebfe/scard
+	go get github.com/lotus-wu/scard
 
-## Bugs
-
-	- Memory layouts/GC needs a thorough review.

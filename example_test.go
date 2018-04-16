@@ -2,8 +2,9 @@ package scard_test
 
 import (
 	"fmt"
-	"github.com/ebfe/scard"
 	"os"
+
+	"github.com/lotus-wu/scard"
 )
 
 func die(err error) {
